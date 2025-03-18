@@ -34,6 +34,7 @@ h1 {
 .loginFormHeaderDiv {
   display: flex;
   justify-content: space-evenly;
+  align-items: center;
   padding-bottom: 2rem;
   border-bottom: 0.5rem solid black;
 }
